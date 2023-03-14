@@ -1,24 +1,13 @@
-# vue3-firebase
+# vuefire
 
-## Project setup
-```
-yarn install
-```
+@author::Kenn Secusana 
+Hey! ug mo clone gani ka ani ayaw kalimot ani naas ubos:
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+1.) yarn install
+2.) yarn serve
+3.) yarn build
+4.) yarn lint
 
-### Compiles and minifies for production
-```
-yarn build
-```
+This is a basic crud application in Vuejs with firebase ez as sht!
 
-### Lints and fixes files
-```
-yarn lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

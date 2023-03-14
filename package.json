@@ -1,8 +1,8 @@
 {
-  "name": "vue3-firebase",
+  "name": "vuefire",
   "version": "0.1.0",
   "private": true,
-  "author": "Justin Brooks <justin@datatorch.io>",
+  "author": "Kenn Secusana",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
