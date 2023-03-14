@@ -1,14 +1,13 @@
 # vuefire
 
-Author::Kenn Secusana 
-Hey! ug mo clone gani ka ani ayaw kalimot ani naas ubos:
+Author: Kenn Secusana 
+
 
 1.) yarn install
 2.) yarn serve
 3.) yarn build
 4.) yarn lint
 
-This is a basic crud application in Vuejs with firebase ez as sht!
-E star sd ni nga repo uy! 
+This is a Test Crud App in Vue-fire🔥
 
 
