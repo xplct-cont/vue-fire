@@ -1,6 +1,6 @@
 # vuefire
 
-@author::Kenn Secusana 
+Author::Kenn Secusana 
 Hey! ug mo clone gani ka ani ayaw kalimot ani naas ubos:
 
 1.) yarn install
@@ -9,5 +9,6 @@ Hey! ug mo clone gani ka ani ayaw kalimot ani naas ubos:
 4.) yarn lint
 
 This is a basic crud application in Vuejs with firebase ez as sht!
+E star sd ni nga repo uy! 
 
 
